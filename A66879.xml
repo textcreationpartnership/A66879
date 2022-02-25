@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full account of the great victory obtained by the Protestants in Ireland, since the arrival of His Grace the Duke of Schomberg as it was communicated by the reverend and valliant governour Walker at Chester.</title>
+            <author>Wolseley, William, 1640?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66879</idno>
+            <idno type="STC">Wing W3316A</idno>
+            <idno type="STC">ESTC R20139</idno>
+            <idno type="EEBO-CITATION">12733537</idno>
+            <idno type="OCLC">ocm 12733537</idno>
+            <idno type="VID">66516</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66516)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 994:1 or 1078:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full account of the great victory obtained by the Protestants in Ireland, since the arrival of His Grace the Duke of Schomberg as it was communicated by the reverend and valliant governour Walker at Chester.</title>
+                  <author>Wolseley, William, 1640?-1697.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Norman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Wolseley.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Wing number W300 cancelled in Wing (2nd ed.).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+               <term>Walker, George, 1645?-1690.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:66516:1" rendition="simple:additions"/>
+            <head>A Full Account of The Great VICTORY obtained by the Proteſtants in Ireland. Since the Arrival of his Grace the Duke of <hi>SHCOMBERG.</hi>
+            </head>
+            <head type="sub">As it was Communicated by the Reverend and Valliant Governour <hi>WALKER</hi> at <hi>Cheſter.</hi>
+            </head>
+            <argument>
+               <p>Licenſed, <hi>Auguſt</hi> 26 1689.</p>
+            </argument>
+            <div type="part">
+               <opener>
+                  <dateline>Cheſter <date>
+                        <hi>Auguſt</hi> the24th. 1689.</date>
+                  </dateline>
+               </opener>
+               <p>YEſterday ſailed out of <hi>High-Lake</hi> four Regiments of Horſe, and one of Dragoons, with a fair Wind, and we hope are ſafely arrived in <hi>Ireland;</hi> the ſame day Imbarked the Lord <hi>Delamer</hi>'s Regiment of Horſe, and the Lord <hi>Devonſhire</hi>'s Regiment of Horſe goes with them, the Guns and Bombs were playing upon <hi>Carrickfergus</hi> Caſtle, when the laſt Expreſs came away. Upon King <hi>James</hi> notice of the Arrival of Duke <hi>Shomberg</hi>'s Army, and that they were ſafely Landed in <hi>Bangor</hi>-Bay, he immediately called a Great Counſel, where himſelf made the firſt Propoſal, That upon the firſt News of a Defeat given by the <hi>Engliſh,</hi> amongſt other things then reſolved on, <hi>Dublin</hi> ſhould be burned to aſhes. But the fear and dread they have ſince had of the <hi>Engliſh</hi> Army hath occaſioned them to take other Meaſures, and to diſcharge the Principal Proteſtants of <hi>Dublin</hi> that were in Priſon; and being in a great Conſternation had removed their Camp from <hi>Rathmine</hi> to <hi>Drumconragh</hi> upon the other ſide of the Water; and that the late King <hi>James</hi> himſelf was pri<g ref="char:EOLhyphen"/>vately retired, but 'twas not known where.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>Cheſter <date>
+                        <hi>Auguſt</hi> the 24th.</date>
+                  </dateline>
+               </opener>
+               <p>The Worthy Governour <hi>Walker</hi> arrived here this Week, and was Enter<g ref="char:EOLhyphen"/>tained very ſplendidly, and is ſet out for <hi>London,</hi> and we doubt not he will be as well Received at <hi>London,</hi> as he hath been at <hi>Cheſter.</hi> Among other things he brings the Confirmation of the <hi>Inniskilling</hi> great Victory, and the following Accompt.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Auguſt 2. 1689.</date> Enniskilling.</dateline>
+                  <lb/>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>I Arrived at <hi>Ballyſhannon</hi> the <hi>Friday</hi> after I parted with you, and upon <hi>Tueſday</hi> came to this place, where the firſt News I had was, That Lieurenant-General <hi>Maccarty</hi> was before <hi>Groom<g ref="char:punc">▪</g>
+                  </hi> with Eight Pieces of Cannon, Three Regiments of Foot, Two of Dragoons, and One of Horſe, within Sixteen Miles of this place; I knew this was in order to Beſiege us here; and I apprehended that <hi>Sarsfield,</hi> who was marched within Four Miles of <hi>Ballyſhannon,</hi> would joyn him (which appears to be their Deſign by the en<g ref="char:EOLhyphen"/>cloſed Letter); and this Place being of no Strength, I reſolved to fight <hi>Maccarty</hi> before they could do it, and ſent immediately for all the Troops; upon <hi>Tueſday</hi> in the Afternoon, I ſent Lieutenant-Collonel <hi>Berry</hi> with Four Troops of Horſe, Two Companies of Foot, and One Troop of Dragoons to poſſeſs himſelf of an advantageous Poſt that lay betwixt us and the Enemy; and upon <hi>Wedneſday</hi> Morning I followed him with the reſt of our Forces; in the way I received Advice from <hi>Berry,</hi> That the Enemy had raiſed the Siege of <hi>Croom,</hi> and were marching towards this place, and had drove him from his Poſt: Whereupon I ſent ſome more Troops of Horſe and Dragoons to ſuſtain him; with which the Enemy were not only put to a ſtand, but were beaten back to their main Body (which was Three Miles behind). We kill'd Major <hi>Freane,</hi> and ſome other Officers Priſoners, and left not a Man; Major-General <hi>Anthony Hamilton</hi> had his Horſe ſhot under him, and 'ſcaped narrowly, and there was about 100 common Souldiers ſlain. About Two Hours after I came up to him, and ſo marched after the Enemy; when I came within a Mile of the Enemy, our Scouts brought us word, That they were drawn up before <hi>New-Town,</hi> upon the Hill; as ſoon as I came up, I detached a Party of Muſquetiers under Coll. <hi>Tiffin,</hi> and Lieutenant-Collonel <hi>Gore,</hi> and ſet upon them, and beat them from their Poſt; when I
+<pb n="2" facs="tcp:66516:2"/>came up to <hi>New Town,</hi> I found the Enemy drawn up in great Order, and very Advanta<g ref="char:EOLhyphen"/>giouſly upon the other ſide of a Bog, over which was no Paſſage for Horſe but by a Cauſe-way ſo narrow, that not above two could go a breaſt; at the head of which were their Guns planted. I found I was in a great ſtraight, I could not ſtay there for want of Bread, and I could not leave them there without certain ruine to my ſelf<g ref="char:punc">▪</g> for I knew they would fall on my Rere if I faced about, and ſo I ſhould be ſnapt betwixt them and <hi>Sarsfield,</hi> and therefore reſolved to try my Fortune: I ſent down Col. <hi>Tiffin, Llyod,</hi> and <hi>Gore</hi> with ſeve<g ref="char:EOLhyphen"/>ral Detachments, to try to paſs the Bogs, and beat the Enemy out of the Hedges. Col. <hi>Tiffin</hi> behaved himſelf with all the Courage imaginable, he marched over the Bog, forced the Enemy from all their Poſts, and fought his way up to the Canon, and made way for the Horſe to come up, and then the Enemy fled to a Bog and Wood, where they were all cut off, except ſome of the Officers, who had Quarter. Our Horſe purſued their Horſe and Dragoons, and did great Execution upon them for five Miles. We do reckon (mo<g ref="char:EOLhyphen"/>derately ſpeaking) that we have cut off upward of Two Thouſand, and taken near five hundred Priſoners, with 39 Commiſſioned Officers, beſides Lieutenant-General <hi>Maccarty,</hi> who is ſhot through the Thigh, and run into the Back; <hi>viz.</hi> Two Majors, one a <hi>French<g ref="char:EOLhyphen"/>man,</hi> Twelve Captains, Ten Lieutenants, eleven Enſigns, one Cornet, two Aid-Majors, and one Quarter-maſter. We have taken Four Braſs Guns, and one of Iron for Battery, and three Braſs Field-Pieces, all their Baggage and Carriages. All the Priſoners agree in this, that theſe Regiments were the Flower of their Army. Moſt of my Men marched the day before they fought 20 Miles, and 18 the day we engaged; if <hi>Sarsfield</hi> continue in his Camp till Tueſday, I'le viſit him; our Foot are as good as ever fought, and ſuch Marks-Men, that an Officer cannot ſhew his Head, but they fetch him down. Pray Sir, haſten your Arms here as ſoon as poſſible, and if you would ſpare a Detachment of four or five hundred of our Old Men, I think I ſhould be able to give an Account of things here: I am confident you cannot put your Arms into the Hands of better Men (eſpecially the Fire-locks) than we have here. All this Buſineſs was done by betwixt 7 or 800 Muſquetiers, for I had ſent down no more when the Enemy fled. This Victory has only coſt me one Captain of Foot, a Cornet of Horſe, 25 private Centinels, and about ſo many wounded; by all which you may perceive how eaſie an Enemy we have to deal withal. I had not with me above 2200 Men, and the Enemy were reckoned to be 5000. Half our Foot are Pike-Men, which are of no uſe in this Country, and therefore deſire that you will ſend ſome more Fire-Arms than were at firſt intended, and what Fire-locks you can ſpare. Col. <hi>Lloyd,</hi> Col. <hi>Wynne,</hi> Lieut. Col. <hi>Gore,</hi> Lieut. Col. <hi>Berry,</hi> and Major <hi>Stone</hi> be<g ref="char:EOLhyphen"/>haved themſelves extreamly well, and indeed all the Officers behaved themſelves like Men of Honour. We want Bread extreamly, if you can ſupply us, you will do us a great Kindneſs: Our Men want Cloaths and Money, for want of all which I cannot keep my Men together above two or three days, but am forced to ſet them go home to their Friends for ſupplies, which is of very ill Conſequence now we are ſurrounded with Enemies; this place and <hi>Ballyſhannon</hi> are of no ſtrength. I have had no time to go to <hi>Donegall,</hi> but I hear no great Character of the place. Col. <hi>Hamilton</hi> (who was very ill of a Fever) ſince I came hither, Col. <hi>Lloyd,</hi> and Lieut. Col. <hi>Gore</hi> are very honeſt Gentlemen, and ſo are all the <hi>Engliſh</hi> I meet with here. I have given Order to Sir <hi>Albert Cunningham</hi> to raiſe a Regi<g ref="char:EOLhyphen"/>ment of Dragoons of Twelve Troops; he has the Character of an honeſt, worthy Gentle<g ref="char:EOLhyphen"/>men, and is well eſteemed of, and was turn'd out of the Lieutenancy of the Ordnance of K. <hi>James;</hi> if your Honour Approve of it, I deſire you will ſend his Commiſſions. I have juſt now Information that the Country People have been in ſearch of the Enemy in the Woods and Bogs near the place where the Fight was, and have killed ſeveral hundreds of them: We are in great want of Surgeons and Medicines for wounded Men; I was in hopes to have ſent ſome Proviſions from hence, but here is none to be had; here is no Wine, and the Beer and Ale not to be drunk, they are almoſt as bad as <hi>Inch.</hi> My humble Service, pray, to all our Friends with you; Col. <hi>Tiffin</hi> and the reſt give your Honour their Humble Service. I am, with all poſſible Reſpect and Gratitude,</p>
+               <closer>
+                  <signed>Your Honours Most Obliged and Faithful Servant, <hi>W. Wolſeley.</hi>
+                  </signed>
+
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>The Perſon of Note I mentioned to be killed by Lieutenant-Colonel</hi> Berry's <hi>Party, I am juſt now informed, was Sir</hi> James Phillips, <hi>I think he was a Captain in</hi> Barclay's <hi>Regiment of Dragoons in</hi> England; <hi>what Poſt he had here I know not: I have his Servant Priſoner.</hi>
+                  </p>
+               </postscript>
+               <postscript>
+                  <opener>
+                     <dateline>
+                        <date>Auguſt 4th. 1689.</date> Enniskilling.</dateline>
+                     <lb/>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>SInce the Writing my laſt, I have the News of the Raiſing of the Siege of <hi>Derry,</hi> and that the Duke of <hi>Berwick</hi> had ſent a great Detachment towards <hi>Donegall,</hi> but hearing the News of Lord <hi>Mount-Caſtle</hi>'s Defeat, ſent for them back, and is gone towards <hi>Charlemount,</hi> burning the whole Country; their deſign was to have joyned <hi>Sarsfield,</hi> who I hear is decamped. I had been with him ere this, but that I want Shot, which I am caſt<g ref="char:EOLhyphen"/>ing Night and Day. By the Advice I have early of the Slaughter the Country People have made ſince the Flight of the Enemy, I am very confident the whole Party is cut off. I have 8 more Commiſſioned Officers juſt now brought me in Priſoners. I am,</p>
+                  <closer>
+                     <salute>Honoured SIR,</salute> 
+                     <signed>Your most Obliged, and most Humble Servant, <hi>W. Wolſeley.</hi>
+                     </signed>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+         <trailer>To the Honourable, Major-General <hi>Kirk.</hi>
+         </trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Norman. MDCLXXXIX.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
